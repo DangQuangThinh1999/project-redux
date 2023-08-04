@@ -22,7 +22,7 @@ interface ListItem {
   total: number;
   amount: number;
 }
-const url = "http://localhost:3000/data.json";
+const url = "../../data.json";
 export const fetchListData = createAsyncThunk<
   IData,
   void,
