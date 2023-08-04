@@ -1,0 +1,21 @@
+{
+  "Products": "Products",
+  "Product": "Product",
+  "Welcome": "Welcome",
+  "Cart": "Cart",
+  "Hi": "Hi",
+  "Languages": "Languages",
+  "English": "English",
+  "Vietnamese": "Vietnamese",
+  "Logout": "Logout",
+  "Favourites": "Favourites",
+  "Quantity": "Quantity",
+  "price": "Price",
+  "total": "Total",
+  "action": "Action",
+  "Clear Cart": "Clear Cart",
+  "Checkout": "Checkout",
+  "Remove": "Remove",
+  "Edit": "Edit",
+  "Save": "Save"
+}

@@ -1,0 +1,12 @@
+.wrapper {
+  margin-top: 10px;
+  p {
+    color: #691c1c;
+    font-weight: bold;
+  }
+
+  p::before {
+    display: inline;
+    content: "⚠ ";
+  }
+}

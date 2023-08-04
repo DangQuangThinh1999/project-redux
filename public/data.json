@@ -1,0 +1,58 @@
+{
+  "product": [
+    {
+      "id": "iphone-12",
+      "name": "iphone 12",
+      "cost": 1200,
+      "amount": 20
+    },
+    {
+      "id": "iphone-13",
+      "name": "iphone 13",
+      "cost": 1900,
+      "amount": 30
+    },
+    {
+      "id": "iphone-10",
+      "name": "iphone 10",
+      "cost": 1800,
+      "amount": 40
+    },
+    {
+      "id": "iphone-9",
+      "name": "iphone 9",
+      "cost": 1700,
+      "amount": 50
+    },
+    {
+      "id": "iphone-8",
+      "name": "iphone 8",
+      "cost": 1600,
+      "amount": 60
+    },
+    {
+      "id": "iphone-11",
+      "name": "iphone 11",
+      "cost": 1500,
+      "amount": 70
+    },
+    {
+      "id": "samsung-s30",
+      "name": "samsung s30",
+      "cost": 1300,
+      "amount": 80
+    },
+    {
+      "id": "samsung-s31",
+      "name": "samsung s31",
+      "cost": 1400,
+      "amount": 90
+    },
+    {
+      "id": "samsung-s32",
+      "name": "samsung s32",
+      "cost": 2400,
+      "amount": 90
+    }
+  ]
+}
